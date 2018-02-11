@@ -1,6 +1,6 @@
 # merge-doc-macos.js
 
-A partial port of TortoiseSVN/TortoiseGit merge-doc.js to Open Scripting Architecture (OSA) on macOS.
+A port of TortoiseSVN/TortoiseGit merge-doc.js to Open Scripting Architecture (OSA) on macOS.
 For the source script, see https://github.com/TortoiseGit/TortoiseGit/blob/master/contrib/diff-scripts/merge-doc.js.
 
 The code is distributed under the GNU General Public License. 
